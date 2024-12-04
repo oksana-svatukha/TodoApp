@@ -7,6 +7,7 @@ Requirements:
 	Python 3.10
 	FastAPI
 	Uvicorn
+	SQLite 
 	PostgreSQL
 
 ![image](https://github.com/user-attachments/assets/60b42304-978c-47c8-97b6-34592022491a)
